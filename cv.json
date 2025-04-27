@@ -1,43 +1,42 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
+    "name": "Alexis Hernan Flores Fernandez",
+    "label": "Full Stack Developer con 2 años de experiencia.",
+    "email": "floresfernandezalexishr@gmail.com",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "57185",
+      "city": "CDMX",
       "countryCode": "ES",
-      "region": "España"
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
+        "username": "alexisflo",
         "url": "https://linkedin.com/in/midudev"
       },
       {
         "network": "X",
-        "username": "midudev",
+        "username": "AlexisFlo",
         "url": "https://x.com/midudev"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
+        "username": "AlexisFlo",
         "url": "https://github.com/midudev"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
+      "name": "Sinergitec México",
+      "position": "Desarrollador",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "startDate": "2024-05-029",
       "endDate": null,
       "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
       "highlights": [
@@ -78,13 +77,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Tecnologico Nacional de México, Campus Gustavo A. Madero.",
+    "url": "https://www.gamadero.tecnm.mx/",
+    "area": "Desarrollo Web",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2019-01-01",
+    "endDate": "2023-06-27",
+    "score": "9.91",
     "courses": [
       "DB1101 - Basic SQL"
     ]
