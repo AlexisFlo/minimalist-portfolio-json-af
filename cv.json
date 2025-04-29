@@ -5,7 +5,7 @@
     "email": "floresfernandezalexishr@gmail.com",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "+2 años de experiencia como Desarrollador Web. Actualmente soy Desarrollador de Software. Vivo en CDMX, México.",
     "location": {
       "address": "",
       "postalCode": "57185",
@@ -27,7 +27,7 @@
       {
         "network": "GitHub",
         "username": "AlexisFlo",
-        "url": "https://github.com/midudev"
+        "url": "https://github.com/AlexisFlo"
       }
     ]
   },
@@ -35,33 +35,12 @@
     {
       "name": "Sinergitec México",
       "position": "Desarrollador",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2024-05-029",
+      "url": "https://sinergitec.mx/",
+      "startDate": "2024-05-29",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollador Full Stack enfocado más a mobile, utilizando react native y supabase, también realizando algunos trabajos de rediseño en páginas web.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+        "Aplicación móvil para compra de insumos"
       ]
     }
   ],
