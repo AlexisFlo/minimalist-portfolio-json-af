@@ -3,7 +3,6 @@
     "name": "Alexis Hernan Flores Fernandez",
     "label": "Full Stack Developer con 2 años de experiencia.",
     "email": "floresfernandezalexishr@gmail.com",
-    "phone": "+34 688888888",
     "url": "https://alexisflodev.netlify.app/",
     "summary": "+2 años de experiencia como Desarrollador Web y 1 como Desarrollador de Software. Me especializo en el desarrollo de soluciones eficientes, priorizando la claridad del código. Entusiasta del aprendizaje continuo y en mejorar habilidades para ser un mejor desarrollador.",
     "location": {
@@ -58,7 +57,7 @@
   "education": [{
     "institution": "Tecnologico Nacional de México, Campus Gustavo A. Madero (ITGAM).",
     "url": "https://www.gamadero.tecnm.mx/",
-    "area": "Ingenieria en Tecnologías de la Información y Comunicaciones",
+    "area": "Ingeniería en Tecnologías de la Información y Comunicaciones",
     "studyType": "Bachelor",
     "startDate": "2019-01-01",
     "endDate": "2023-06-27",

@@ -2,35 +2,33 @@
   "basics": {
     "name": "Alexis Hernan Flores Fernandez",
     "label": "Full-Stack developer with more than 2 years of experience",
-    "image": "/me.webp",
     "email": "floresfernandezalexishr@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
+    "url": "https://alexisflodev.netlify.app/",
     "summary": "+2 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
     "location": {
       "address": "",
-      "postalCode": "08820",
+      "postalCode": "",
       "city": "CDMX",
       "countryCode": "ES",
       "region": "Mexico"
     },
     "profiles": [
-      {
+       {
         "network": "LinkedIn",
-        "username": "AlexisFlo",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "alexisflo",
+        "url": "https://www.linkedin.com/in/alexis-f-918710260/"
       },
       {
         "network": "X",
-        "username": "Alexis Flo",
-        "url": "https://x.com/midudev"
+        "username": "alexisflowersf",
+        "url": "https://x.com/alexisflowersf"
       },
       {
         "network": "GitHub",
         "username": "AlexisFlo",
         "url": "https://github.com/AlexisFlo"
       }
-    ]
+   ]
   },
   "work": [
     {
@@ -43,7 +41,7 @@
       "highlights": [
         "Build a Mobile appplication"
       ]
-    },
+    }
   ],
   "volunteer": [{
     "organization": "Organization",
@@ -57,16 +55,22 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "institution": "Tecnologico Nacional de México, Campus Gustavo A. Madero (ITGAM).",
+    "url": "https://www.gamadero.tecnm.mx/",
     "area": "Software Engineer",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2019-01-01",
+    "endDate": "2023-06-27",
+    "score": "9.91",
     "courses": [
       "DB1101 - Basic SQL"
     ]
+  },
+  {
+    "institution": "Centro de Estudios Tecnológicos y de Servicios No. 54",
+    "area": "Programming",
+    "startDate": "2015-08",
+    "endDate": "2018-06"
   }],
   "awards": [{
     "title": "Award",
@@ -173,7 +177,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
   "interests": [{
@@ -189,66 +193,43 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Sin Mayores Etiquetas",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Site for the awareness of stereotypes that are held or generated with the elderly.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Old age",
+        "Coexistence"
       ],
-      "url": "https://mars.codes"
+      "url": "https://sinmayoresetiquetas.netlify.app/"
     },
     {
-      "name": "AdventJS",
+      "name": "El Mayor",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "Website of a support center for the elderly.",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "Support",
+        "Old age"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://elmayor.netlify.app/"
     },
     {
-      "name": "Codember",
+      "name": "Consulta CFDI",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "Invoices page for consultantion and download.",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "Site Redesign"
       ],
-      "url": "https://codember.dev"
+      "url": "http://fandrade.no-ip.biz:8080/consultaCFDI/"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "name": "Huitz cloud",
+      "isActive": false,
+      "description": "Online ordering and menu consultation.",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "Home Delivery",
+        "Developed for restaurants"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
-    }
-  ]
+      "url": "https://www.huitzcloud.com/sazon-ojeda/",
+      "github": ""
+    }  ]
 }
