@@ -4,8 +4,8 @@
     "label": "Full Stack Developer con 2 años de experiencia.",
     "email": "floresfernandezalexishr@gmail.com",
     "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+2 años de experiencia como Desarrollador Web. Actualmente soy Desarrollador de Software. Vivo en CDMX, México.",
+    "url": "https://alexisflodev.netlify.app/",
+    "summary": "+2 años de experiencia como Desarrollador Web y 1 como Desarrollador de Software. Me especializo en el desarrollo de soluciones eficientes, priorizando la claridad del código. Entusiasta del aprendizaje continuo y en mejorar habilidades para ser un mejor desarrollador.",
     "location": {
       "address": "",
       "postalCode": "57185",
@@ -17,12 +17,12 @@
       {
         "network": "LinkedIn",
         "username": "alexisflo",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://www.linkedin.com/in/alexis-f-918710260/"
       },
       {
         "network": "X",
-        "username": "AlexisFlo",
-        "url": "https://x.com/midudev"
+        "username": "alexisflowersf",
+        "url": "https://x.com/alexisflowersf"
       },
       {
         "network": "GitHub",
@@ -56,9 +56,9 @@
     ]
   }],
   "education": [{
-    "institution": "Tecnologico Nacional de México, Campus Gustavo A. Madero.",
+    "institution": "Tecnologico Nacional de México, Campus Gustavo A. Madero (ITGAM).",
     "url": "https://www.gamadero.tecnm.mx/",
-    "area": "Desarrollo Web",
+    "area": "Ingenieria en Tecnologías de la Información y Comunicaciones",
     "studyType": "Bachelor",
     "startDate": "2019-01-01",
     "endDate": "2023-06-27",
@@ -66,6 +66,12 @@
     "courses": [
       "DB1101 - Basic SQL"
     ]
+  },
+  {
+    "institution": "Centro de Estudios Tecnológicos y de Servicios No. 54",
+    "area": "Tecnico en Programación",
+    "startDate": "2015-08",
+    "endDate": "2018-06"
   }],
   "awards": [{
     "title": "Award",
@@ -110,28 +116,28 @@
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Intermedio",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Intermedio",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Intermedio",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Intermedio",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
@@ -152,14 +158,14 @@
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
+      "level": "Básico",
       "keywords": [
         "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Básico",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
@@ -172,7 +178,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
   "interests": [{
@@ -188,66 +194,44 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Sin Mayores Etiquetas",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Sitio para la concientización de los estereotipos que se tienen o se generan con las personas de la tercera edad.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Tercera edad",
+        "Convivencia"
       ],
-      "url": "https://mars.codes"
+      "url": "https://sinmayoresetiquetas.netlify.app/"
     },
     {
-      "name": "AdventJS",
+      "name": "El Mayor",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Sitio web de un centro de apoyo para personas de la tercera edad.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Apoyo",
+        "Tercera Edad"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://elmayor.netlify.app/"
     },
     {
-      "name": "Codember",
+      "name": "Consulta CFDI",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Pagina para consultar y descargar facturas de auto refacciones Franco",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Rediseño de página"
       ],
-      "url": "https://codember.dev"
+      "url": "http://fandrade.no-ip.biz:8080/consultaCFDI/"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "name": "Huitz cloud",
+      "isActive": false,
+      "description": "Página para hacer pedidos en línea y consultar menú.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Pedidos a domicilio",
+        "Desarrollado para restaurantes"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://www.huitzcloud.com/sazon-ojeda/",
+      "github": ""
     }
   ]
 }
